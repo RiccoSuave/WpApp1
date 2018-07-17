@@ -1,0 +1,9 @@
+1,Persspolice,Ali,Kamali,571-255-5142,akamali@gmail.com
+2,Persspolice,Shahin,Ansari,571-235-5542,sansari@yahoo.com
+3,Persspolice,Kambiz,Amanat,703-556-7189,kamanat@yahoo.com
+4,Esteghlal,Karam,Gholi,571-235-5142,kgholi@gmail.com
+5,Esteghlal,Shermin,Karami,571-235-5442,skarami@yahoo.com
+6,Esteghlal,Kave,Delju,703-555-7189,kdelju@yahoo.com
+7,TraktorSazi,Ghasem,Goli,581-235-5142,kgoli@gmail.com
+8,TraktorSazi,Shervin,Yadolahi,703-235-5442,syadolahi@yahoo.com
+9,TraktorSazi,Reza,Majnoon,703-905-7189,rmajnoon@yahoo.com
